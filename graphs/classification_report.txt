@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+     acrylic       0.91      1.00      0.95        10
+    corduroy       0.78      0.95      0.86        19
+      cotton       1.00      0.93      0.96        71
+
+    accuracy                           0.94       100
+   macro avg       0.90      0.96      0.92       100
+weighted avg       0.95      0.94      0.94       100
