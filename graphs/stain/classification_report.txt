@@ -1,0 +1,13 @@
+                    precision    recall  f1-score   support
+
+ Blood Stain Clean       0.63      0.86      0.73        14
+  Chocolate Stains       0.75      0.60      0.67         5
+Coffee Stain Clean       0.75      0.60      0.67        10
+      Grass Stains       0.67      0.50      0.57         4
+Grease Stain Clean       0.89      1.00      0.94         8
+    Ketchup Stains       0.75      0.60      0.67         5
+Marker Stain Clean       1.00      0.90      0.95        10
+
+          accuracy                           0.77        56
+         macro avg       0.78      0.72      0.74        56
+      weighted avg       0.78      0.77      0.76        56
